@@ -1,5 +1,5 @@
 ## Olá, me chamo Anderson, aluno quase formado em engenharia de software pela UTFPR
-
+<br><br><br>
 <div>
   tenho como áreas de interesse e domínio
   <div style="display: grid"><br>
@@ -10,9 +10,9 @@
     <img align="center" alt="Linux-icon" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" /> Linux
   </div>
   </div>
-  <div>
+  <div><br><br><br>
   tenho como áreas que pretendo aprender e aperfeiçoar:
-  <div style="display: grid"><br>
+  <div style="display: column"><br>
      <img align="center" alt="node-icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" /> Node 
      <img align="center" alt="Rust-icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" /> Rust
      <img align="center" alt="TS-icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" /> TypeScript
