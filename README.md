@@ -1,28 +1,31 @@
-## Olá, me chamo Anderson, aluno quase formado em engenharia de software pela UTFPR
+## Olá, me chamo Anderson, aluno do ultimo período do curso de engenharia de software pela Universidade Tecnológica Federal do Paraná
 <br><br><br>
 <div>
-  tenho como áreas de interesse e domínio
+  <p>Estou no momento focado em estudar</p>
   <div style="display: inline-grid"><br>
     <ul class={list-style: none}>
-    <li> <img align="center" alt="java-icon" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" /> Desenvolvimento Java </li>
-    <li><img align="center" alt="SQL-icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" /> SQL</li>
-     <li><img align="center" alt="HTML-icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" /> HTML</li>
-     <li><img align="center" alt="CSS-icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" /> CSS</li>
-     <li><img align="center" alt="Linux-icon" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" /> Linux</li>
+    <li>JavaScript</li>
+    <li>C#</li>
+     <li>HTML</li>
+     <li>CSS</li>
+     <li>Git</li>
     </ul>
       </div>
   </div>
   <div><br><br><br>
-  tenho como áreas que pretendo aprender e aperfeiçoar:
+  tenho como áreas de interesse:
   <div style="display: column"><br>
     <ul>
-     <li><img align="center" alt="node-icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" /> Node 
-     </li><li><img align="center" alt="Rust-icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" /> Rust
-     </li><li><img align="center" alt="TS-icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" /> TypeScript
-     </li><li><img align="center" alt="React-icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" /> React
-      </li></ul>
+      <li>Testes de software (manuais e automatizados)</li>
+      <li>desenvolvimento de jogos</li>
+      <li>desenvolvimento web</li>
+      <li>boas práticas de código</li>
+      <li>ambientes virtuais (VR/AR)</li>
+    </ul>
   </div>
   </div>
+
+  <p>Embora eu ainda esteja dando pequenos passos, espero melhorar minhas habilidades, minha consistência e até quem sabe contribuir com algo grande, ainda tenho muito a melhorar, mas uma jornada começa pelo primeiro passo.</p>
 
   
 
