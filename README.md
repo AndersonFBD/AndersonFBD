@@ -1,8 +1,8 @@
 ## Olá, me chamo Anderson, aluno do ultimo período do curso de engenharia de software pela Universidade Tecnológica Federal do Paraná
-<br><br><br>
+<br>
 <p>Por hora estou concluindo meu TCC, onde estou elaborando um possível método de teste de regressão para softwares de reconstrução, usando seus modelos 3d gerados em cenário controlado. Espero ainda me aprofundar na área de QA, mas também busco atuar como desenvolvedor web, onde possa integrar em equipes que constróem soluções que ajudam as pessoas</p>
 
-<h2>Com o que eu tenho lidado:<h2>
+<h2>Com o que eu tenho lidado:</h2>
 <ul>
   <li>APIs REST</li>
   <li>Componentização em páginas WEB</li>
@@ -24,7 +24,6 @@
 </ul>
 
 <h2>Ferramentas que Utilizo:</h2>
-
 <h3>Front-end</h3>
 <ul>
   <li>React</li>
@@ -60,7 +59,7 @@
   <li>Astah</li>
 </ul>
 
-<h3>tecnologias e ferramentas que já utilizei em algum momento:</h3>
+<h2>tecnologias e ferramentas que já utilizei em algum momento:</h2>
 <ul>
   <li>C</li>
   <li>Unity</li>
