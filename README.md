@@ -1,6 +1,5 @@
-## Olá, me chamo Anderson, aluno do ultimo período do curso de engenharia de software pela Universidade Tecnológica Federal do Paraná
+## Olá, me chamo Anderson, desenvolvedor formado em engenharia de software pela Universidade Tecnológica Federal do Paraná
 <br>
-<p>Por hora estou concluindo meu TCC, onde estou elaborando um possível método de teste de regressão para softwares de reconstrução, usando seus modelos 3d gerados em cenário controlado. Espero ainda me aprofundar na área de QA, mas também busco atuar como desenvolvedor web, onde possa integrar em equipes que constróem soluções que ajudam as pessoas</p>
 
 <h2>Com o que eu tenho lidado:</h2>
 <ul>
